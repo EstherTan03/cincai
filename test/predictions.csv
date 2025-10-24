@@ -1,0 +1,13 @@
+filename,ground_truth,predicted,confidence
+A_001.bmp,A,A,0.583372
+A_002.bmp,A,A,0.528579
+A_003.bmp,A,B,0.636652
+A_015.bmp,A,A,0.633322
+A_017.bmp,A,A,0.534611
+A_018.bmp,A,A,0.586631
+B_003.bmp,B,B,0.698941
+B_004.bmp,B,B,0.864153
+B_007.bmp,B,B,0.890918
+B_011.bmp,B,B,0.84162
+B_030.bmp,B,B,0.85232
+B_032.bmp,B,B,0.693131
