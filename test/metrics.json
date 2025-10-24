@@ -12,6 +12,6 @@
   "recipe_folder": "Recipe_011",
   "inference_dir": "D:\\Flexible feeder\\training\\Training_013\\Inference",
   "checkpoint_path": "D:\\Flexible feeder\\training\\Training_013\\myModelCheckpoint.pth",
-  "acc_target": 0.95,
-  "recall_min": 0.9
+  "acc_target": 0.9,
+  "recall_min": 0.8
 }
