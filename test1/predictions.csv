@@ -1,0 +1,13 @@
+filename,filepath,ground_truth,predicted,confidence
+A_002.bmp,training\Training_015\Inference\A\A_002.bmp,A,B,0.99707
+A_003.bmp,training\Training_015\Inference\A\A_003.bmp,A,A,1.0
+A_019.bmp,training\Training_015\Inference\A\A_019.bmp,A,A,1.0
+A_025.bmp,training\Training_015\Inference\A\A_025.bmp,A,A,1.0
+A_027.bmp,training\Training_015\Inference\A\A_027.bmp,A,A,0.979004
+A_031.bmp,training\Training_015\Inference\A\A_031.bmp,A,A,1.0
+B_002.bmp,training\Training_015\Inference\B\B_002.bmp,B,B,1.0
+B_009.bmp,training\Training_015\Inference\B\B_009.bmp,B,B,1.0
+B_017.bmp,training\Training_015\Inference\B\B_017.bmp,B,B,1.0
+B_021.bmp,training\Training_015\Inference\B\B_021.bmp,B,B,0.916016
+B_025.bmp,training\Training_015\Inference\B\B_025.bmp,B,B,1.0
+B_031.bmp,training\Training_015\Inference\B\B_031.bmp,B,B,1.0

@@ -1,0 +1,18 @@
+{
+  "overall_accuracy": 0.9166666666666666,
+  "per_class_recall": {
+    "A": 0.8333333333333334,
+    "B": 1.0
+  },
+  "num_images": 12,
+  "classes": [
+    "A",
+    "B"
+  ],
+  "inference_dir": "training/Training_015\\Inference",
+  "outputs": {
+    "predictions_csv": "training/Training_015\\test\\predictions.csv",
+    "confusion_matrix_png": "training/Training_015\\test\\confusion_matrix.png",
+    "metrics_json": "training/Training_015\\test\\metrics.json"
+  }
+}
